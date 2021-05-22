@@ -23,7 +23,7 @@ Email - `yogasvchann@gmail.com`
 1. Install Python3.
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/MalDev101/ransomwarev2
    ```
 3. Install modules
    ```sh
