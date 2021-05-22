@@ -11,7 +11,12 @@
 </details>
 
 
-
+### What is interesting?
+###### Nothing much it first checks for Internet availability for bruteforcing SSH.
+###### then it try to add itself to startup and disable Taskmgr,CMD.
+###### Encrypts File with simple Encryption.
+###### leaves a note on Desktop.
+###### checks for open Ports(pending)...
 
 
 ## Contact
