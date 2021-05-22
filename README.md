@@ -1,3 +1,9 @@
+# I will uplaod script soon.
+
+
+
+
+
 <details open="open">
   <summary>Contents</summary>
   <ol>
@@ -19,7 +25,7 @@
 ###### checks for open Ports(pending)...
 ###### checks if the script is ran as Admin or not if not then tries to Bypass UAC.
 
-# I will uplaod script soon.
+
 
 
 ## Contact
