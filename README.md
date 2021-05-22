@@ -1,4 +1,4 @@
-# I will uplaod script soon.
+# I will upload script soon.
 
 
 
