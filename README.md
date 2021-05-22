@@ -9,3 +9,25 @@
     </li>
   </ol>
 </details>
+
+
+
+### Installation
+
+1. Install Python3.
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install modules
+   ```sh
+   pip install pywin32
+   pip install coloredlogs
+   pip install cryptodome
+   pip install crypto
+   pip install nmap
+   pip install paramiko
+   pip install requests 
+   pip install netifaces
+   ```
+
